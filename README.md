@@ -8,4 +8,4 @@
 - [ArkProject: NFT Bridge](https://github.com/xjjda22/2024-07-ark-project/blob/main/cyfrin-submission.md)
 
 ## code4rena 
-- [phi](https://github.com/xjjda22/2024-08-phi/)
+- [phi](https://github.com/xjjda22/2024-08-phi/blob/main/cyfrin-submission.md)
