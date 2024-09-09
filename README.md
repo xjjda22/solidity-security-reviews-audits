@@ -9,4 +9,4 @@
 
 ## code4rena 
 - [phi](https://github.com/xjjda22/2024-08-phi/blob/main/cyfrin-submission.md)
-- [superposition](https://github.com/xjjda22/2024-08-superposition)
+- [wildcat protocol](https://github.com/xjjda22/2024-08-wildcat/blob/main/cyfrin-submission.md)
